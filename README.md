@@ -25,7 +25,7 @@ Key topics include:
 ## 🗂 Repository Structure
 
 ```bash
-├── /labs/              # In-class coding exercises and lab notebooks
+├── /code_labs/              # In-class coding exercises and lab notebooks
 ├── /projects/          # Student project submissions
 ├── /examples/          # Reference code and demonstrations
 ├── /resources/         # Optional tools, tips, and links
